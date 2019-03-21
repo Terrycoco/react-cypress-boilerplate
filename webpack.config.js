@@ -82,8 +82,7 @@ module.exports = {
     alias: {
       components: path.resolve(__dirname, 'src', 'components'),
       routes: path.resolve(__dirname, 'src', 'routes'),
-      styles: path.resolve(__dirname, 'src', 'styles'),
-      public: path.resolve(__dirname, 'public')
+      styles: path.resolve(__dirname, 'src', 'styles')
     },
   },
   devtool: 'source-map',
